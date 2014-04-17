@@ -19,9 +19,9 @@ if not, it will search inside to get the form.
 Options
 =======
 its simple as:   
-`$('#form').alajax({ OPTIONS });`
-OR   
-`$('form').alajax({ OPTIONS });`
+`$('#form').alajax({ OPTIONS });`   
+OR  
+`$('form').alajax({ OPTIONS });`   
 OR   
 `$('#div').alajax({ OPTIONS });`
 
